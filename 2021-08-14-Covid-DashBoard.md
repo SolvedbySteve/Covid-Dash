@@ -3,7 +3,7 @@ title: "Covid Dashboard Project"
 date: 2021-08-14
 tags: [sql, sql server, tableau, data analysis, data science, data visualization, etl]
 header:
-  image: "/images/credit-bot/real-hero.jpeg"
+  image: "/images/covid-dash/covidheader.JPG"
 excerpt: "SQL, SQL Server, Tableau, Data Analysis, Data Science, Data Visualization, ETL"
 mathjax: "true"
 ---
